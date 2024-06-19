@@ -1,0 +1,5 @@
+246,Ömer,Arslan,19,omeruw,14849409,annemin ismi,gulten,5526481755,Yazılımcı
+628,Furkan,Cavusoglu,18,furkanCVS,cavusoglu,abimin ismi,volkan,5306501780,Ogrenci
+967,Arif,Kayhan,18,arifkayhann,malatya,sirketimizin ismi,temofis,,koltukcu
+766,Emir,Halisdemir,20,emirr,emir,en yakin ark ismi,furkanl 
+871,Yiğit,Akbulut,18,yigitakbulut,akbulut,abimin ismi,serhat

@@ -1,0 +1,4 @@
+330,871,Lüks Elektrikli,Elektrikli Araçlar,34YGT063,Porsche,Taycan,2020,70620,Beyaz,Yarı otomatik,420,3750000,C:/Users/arsla/Pictures/imgAdverts/taycan90x51.jpg
+421,766,Arazi Canavarı,Arazi&SUV&Pickup,34EMR23,Mitsubishi,L200,2020,61300,Kırmızı,Manuel,240,1800000,C:/Users/arsla/Pictures/imgAdverts/mistubishiL200.90x51.jpg
+855,766,Konforlu Araç,Elektrikli Araçlar,34EMR099,Mercedes,EQS,2023,12890,Siyah,Otomatik,620,7050000,C:/Users/arsla/Pictures/imgAdverts/mercedeseqs90x51.jpg
+737,871,Aşiret Paket,Otomobil,34YGT001,Volkswagen,Passat,2017,178500,Gri,Otomatik,160,1378000,C:/Users/arsla/Pictures/imgAdverts/passat88x50.jpg
